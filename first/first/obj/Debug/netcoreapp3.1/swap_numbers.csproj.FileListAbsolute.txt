@@ -1,0 +1,10 @@
+E:\all about learning\computer science\codes\visual studio codes\first\first\bin\Debug\netcoreapp3.1\swap_numbers.exe
+E:\all about learning\computer science\codes\visual studio codes\first\first\bin\Debug\netcoreapp3.1\swap_numbers.deps.json
+E:\all about learning\computer science\codes\visual studio codes\first\first\bin\Debug\netcoreapp3.1\swap_numbers.runtimeconfig.json
+E:\all about learning\computer science\codes\visual studio codes\first\first\bin\Debug\netcoreapp3.1\swap_numbers.runtimeconfig.dev.json
+E:\all about learning\computer science\codes\visual studio codes\first\first\bin\Debug\netcoreapp3.1\swap_numbers.dll
+E:\all about learning\computer science\codes\visual studio codes\first\first\bin\Debug\netcoreapp3.1\swap_numbers.pdb
+E:\all about learning\computer science\codes\visual studio codes\first\first\obj\Debug\netcoreapp3.1\swap_numbers.AssemblyInfoInputs.cache
+E:\all about learning\computer science\codes\visual studio codes\first\first\obj\Debug\netcoreapp3.1\swap_numbers.AssemblyInfo.cs
+E:\all about learning\computer science\codes\visual studio codes\first\first\obj\Debug\netcoreapp3.1\swap_numbers.dll
+E:\all about learning\computer science\codes\visual studio codes\first\first\obj\Debug\netcoreapp3.1\swap_numbers.pdb
